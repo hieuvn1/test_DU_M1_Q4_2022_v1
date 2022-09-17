@@ -1,0 +1,157 @@
+D:\HieuVN\Project\C#\Test\PreTest\bin\Debug\PreTest.exe.config
+D:\HieuVN\Project\C#\Test\PreTest\bin\Debug\PreTest.exe
+D:\HieuVN\Project\C#\Test\PreTest\bin\Debug\PreTest.pdb
+D:\HieuVN\Project\C#\Test\PreTest\obj\Debug\PreTest.csproj.AssemblyReference.cache
+D:\HieuVN\Project\C#\Test\PreTest\obj\Debug\PreTest.csproj.SuggestedBindingRedirects.cache
+D:\HieuVN\Project\C#\Test\PreTest\obj\Debug\PreTest.Form1.resources
+D:\HieuVN\Project\C#\Test\PreTest\obj\Debug\PreTest.Properties.Resources.resources
+D:\HieuVN\Project\C#\Test\PreTest\obj\Debug\PreTest.csproj.GenerateResource.cache
+D:\HieuVN\Project\C#\Test\PreTest\obj\Debug\PreTest.csproj.CoreCompileInputs.cache
+D:\HieuVN\Project\C#\Test\PreTest\obj\Debug\PreTest.exe
+D:\HieuVN\Project\C#\Test\PreTest\obj\Debug\PreTest.pdb
+D:\HieuVN\Project\C#\Test\PreTest\obj\Debug\PreTest.csproj.ResolveComReference.cache
+D:\5G\auto tool\PreTest\bin\Debug\PreTest.exe.config
+D:\5G\auto tool\PreTest\bin\Debug\PreTest.exe.manifest
+D:\5G\auto tool\PreTest\bin\Debug\PreTest.application
+D:\5G\auto tool\PreTest\bin\Debug\PreTest.exe
+D:\5G\auto tool\PreTest\bin\Debug\PreTest.pdb
+D:\5G\auto tool\PreTest\bin\Debug\Renci.SshNet.dll
+D:\5G\auto tool\PreTest\bin\Debug\Renci.SshNet.xml
+D:\5G\auto tool\PreTest\obj\Debug\PreTest.csprojAssemblyReference.cache
+D:\5G\auto tool\PreTest\obj\Debug\Interop.LCC11.dll
+D:\5G\auto tool\PreTest\obj\Debug\PreTest.csproj.ResolveComReference.cache
+D:\5G\auto tool\PreTest\obj\Debug\PreTest.Form1.resources
+D:\5G\auto tool\PreTest\obj\Debug\PreTest.Properties.Resources.resources
+D:\5G\auto tool\PreTest\obj\Debug\PreTest.csproj.GenerateResource.cache
+D:\5G\auto tool\PreTest\obj\Debug\PreTest.csproj.CoreCompileInputs.cache
+D:\5G\auto tool\PreTest\obj\Debug\PreTest.exe.manifest
+D:\5G\auto tool\PreTest\obj\Debug\PreTest.application
+D:\5G\auto tool\PreTest\obj\Debug\PreTest.csproj.CopyComplete
+D:\5G\auto tool\PreTest\obj\Debug\PreTest.exe
+D:\5G\auto tool\PreTest\obj\Debug\PreTest.pdb
+D:\HieuVN\Project\C#\PreTest\PreTest\bin\Debug\PreTest.exe.config
+D:\HieuVN\Project\C#\PreTest\PreTest\bin\Debug\PreTest.exe.manifest
+D:\HieuVN\Project\C#\PreTest\PreTest\bin\Debug\PreTest.application
+D:\HieuVN\Project\C#\PreTest\PreTest\bin\Debug\PreTest.exe
+D:\HieuVN\Project\C#\PreTest\PreTest\bin\Debug\PreTest.pdb
+D:\HieuVN\Project\C#\PreTest\PreTest\bin\Debug\Renci.SshNet.dll
+D:\HieuVN\Project\C#\PreTest\PreTest\bin\Debug\Renci.SshNet.xml
+D:\HieuVN\Project\C#\PreTest\PreTest\obj\Debug\PreTest.csproj.AssemblyReference.cache
+D:\HieuVN\Project\C#\PreTest\PreTest\obj\Debug\PreTest.csproj.SuggestedBindingRedirects.cache
+D:\HieuVN\Project\C#\PreTest\PreTest\obj\Debug\PreTest.csproj.ResolveComReference.cache
+D:\HieuVN\Project\C#\PreTest\PreTest\obj\Debug\PreTest.Form1.resources
+D:\HieuVN\Project\C#\PreTest\PreTest\obj\Debug\PreTest.Properties.Resources.resources
+D:\HieuVN\Project\C#\PreTest\PreTest\obj\Debug\PreTest.csproj.GenerateResource.cache
+D:\HieuVN\Project\C#\PreTest\PreTest\obj\Debug\PreTest.csproj.CoreCompileInputs.cache
+D:\HieuVN\Project\C#\PreTest\PreTest\obj\Debug\PreTest.exe.manifest
+D:\HieuVN\Project\C#\PreTest\PreTest\obj\Debug\PreTest.application
+D:\HieuVN\Project\C#\PreTest\PreTest\obj\Debug\PreTest.csproj.CopyComplete
+D:\HieuVN\Project\C#\PreTest\PreTest\obj\Debug\PreTest.exe
+D:\HieuVN\Project\C#\PreTest\PreTest\obj\Debug\PreTest.pdb
+D:\5G\DU\tool DU\PreTest\bin\Debug\PreTest.exe.config
+D:\5G\DU\tool DU\PreTest\bin\Debug\PreTest.exe.manifest
+D:\5G\DU\tool DU\PreTest\bin\Debug\PreTest.application
+D:\5G\DU\tool DU\PreTest\bin\Debug\PreTest.exe
+D:\5G\DU\tool DU\PreTest\bin\Debug\PreTest.pdb
+D:\5G\DU\tool DU\PreTest\bin\Debug\Renci.SshNet.dll
+D:\5G\DU\tool DU\PreTest\bin\Debug\Renci.SshNet.xml
+D:\5G\DU\tool DU\PreTest\obj\Debug\PreTest.csprojAssemblyReference.cache
+D:\5G\DU\tool DU\PreTest\obj\Debug\PreTest.csproj.ResolveComReference.cache
+D:\5G\DU\tool DU\PreTest\obj\Debug\PreTest.Form1.resources
+D:\5G\DU\tool DU\PreTest\obj\Debug\PreTest.Properties.Resources.resources
+D:\5G\DU\tool DU\PreTest\obj\Debug\PreTest.csproj.GenerateResource.cache
+D:\5G\DU\tool DU\PreTest\obj\Debug\PreTest.csproj.CoreCompileInputs.cache
+D:\5G\DU\tool DU\PreTest\obj\Debug\PreTest.exe.manifest
+D:\5G\DU\tool DU\PreTest\obj\Debug\PreTest.application
+D:\5G\DU\tool DU\PreTest\obj\Debug\PreTest.csproj.CopyComplete
+D:\5G\DU\tool DU\PreTest\obj\Debug\PreTest.exe
+D:\5G\DU\tool DU\PreTest\obj\Debug\PreTest.pdb
+D:\HieuVN\Project\C#\PreTest\bin\Debug\PreTest.exe.config
+D:\HieuVN\Project\C#\PreTest\bin\Debug\PreTest.exe.manifest
+D:\HieuVN\Project\C#\PreTest\bin\Debug\PreTest.application
+D:\HieuVN\Project\C#\PreTest\bin\Debug\PreTest.exe
+D:\HieuVN\Project\C#\PreTest\bin\Debug\PreTest.pdb
+D:\HieuVN\Project\C#\PreTest\bin\Debug\Renci.SshNet.dll
+D:\HieuVN\Project\C#\PreTest\bin\Debug\Renci.SshNet.xml
+D:\HieuVN\Project\C#\PreTest\obj\Debug\PreTest.csproj.AssemblyReference.cache
+D:\HieuVN\Project\C#\PreTest\obj\Debug\PreTest.csproj.SuggestedBindingRedirects.cache
+D:\HieuVN\Project\C#\PreTest\obj\Debug\PreTest.csproj.ResolveComReference.cache
+D:\HieuVN\Project\C#\PreTest\obj\Debug\PreTest.Form1.resources
+D:\HieuVN\Project\C#\PreTest\obj\Debug\PreTest.Properties.Resources.resources
+D:\HieuVN\Project\C#\PreTest\obj\Debug\PreTest.csproj.GenerateResource.cache
+D:\HieuVN\Project\C#\PreTest\obj\Debug\PreTest.csproj.CoreCompileInputs.cache
+D:\HieuVN\Project\C#\PreTest\obj\Debug\PreTest.exe.manifest
+D:\HieuVN\Project\C#\PreTest\obj\Debug\PreTest.application
+D:\HieuVN\Project\C#\PreTest\obj\Debug\PreTest.csproj.CopyComplete
+D:\HieuVN\Project\C#\PreTest\obj\Debug\PreTest.exe
+D:\HieuVN\Project\C#\PreTest\obj\Debug\PreTest.pdb
+D:\5G\DU\tool DU\PreTest\obj\Debug\PreTest.Change_password.resources
+D:\HieuVN\Project\C#\PreTest\obj\Debug\PreTest.Change_password.resources
+D:\HieuVN\Project\PreTest\bin\Debug\PreTest.exe.config
+D:\HieuVN\Project\PreTest\bin\Debug\PreTest.exe.manifest
+D:\HieuVN\Project\PreTest\bin\Debug\PreTest.application
+D:\HieuVN\Project\PreTest\bin\Debug\PreTest.exe
+D:\HieuVN\Project\PreTest\bin\Debug\PreTest.pdb
+D:\HieuVN\Project\PreTest\bin\Debug\Renci.SshNet.dll
+D:\HieuVN\Project\PreTest\bin\Debug\Renci.SshNet.xml
+D:\HieuVN\Project\PreTest\obj\Debug\PreTest.csproj.AssemblyReference.cache
+D:\HieuVN\Project\PreTest\obj\Debug\PreTest.csproj.SuggestedBindingRedirects.cache
+D:\HieuVN\Project\PreTest\obj\Debug\PreTest.csproj.ResolveComReference.cache
+D:\HieuVN\Project\PreTest\obj\Debug\PreTest.Change_password.resources
+D:\HieuVN\Project\PreTest\obj\Debug\PreTest.Check.resources
+D:\HieuVN\Project\PreTest\obj\Debug\PreTest.Form1.resources
+D:\HieuVN\Project\PreTest\obj\Debug\PreTest.Properties.Resources.resources
+D:\HieuVN\Project\PreTest\obj\Debug\PreTest.csproj.GenerateResource.cache
+D:\HieuVN\Project\PreTest\obj\Debug\PreTest.csproj.CoreCompileInputs.cache
+D:\HieuVN\Project\PreTest\obj\Debug\PreTest.exe.manifest
+D:\HieuVN\Project\PreTest\obj\Debug\PreTest.application
+D:\HieuVN\Project\PreTest\obj\Debug\PreTest.csproj.CopyComplete
+D:\HieuVN\Project\PreTest\obj\Debug\PreTest.exe
+D:\HieuVN\Project\PreTest\obj\Debug\PreTest.pdb
+F:\hieuvn1\DU\PreTest\bin\Debug\PreTest.exe.config
+F:\hieuvn1\DU\PreTest\bin\Debug\PreTest.exe.manifest
+F:\hieuvn1\DU\PreTest\bin\Debug\PreTest.application
+F:\hieuvn1\DU\PreTest\bin\Debug\PreTest.exe
+F:\hieuvn1\DU\PreTest\bin\Debug\PreTest.pdb
+F:\hieuvn1\DU\PreTest\bin\Debug\Renci.SshNet.dll
+F:\hieuvn1\DU\PreTest\bin\Debug\Renci.SshNet.xml
+F:\hieuvn1\DU\PreTest\obj\Debug\PreTest.csproj.AssemblyReference.cache
+F:\hieuvn1\DU\PreTest\obj\Debug\PreTest.csproj.ResolveComReference.cache
+F:\hieuvn1\DU\PreTest\obj\Debug\PreTest.Change_password.resources
+F:\hieuvn1\DU\PreTest\obj\Debug\PreTest.Check.resources
+F:\hieuvn1\DU\PreTest\obj\Debug\PreTest.Form1.resources
+F:\hieuvn1\DU\PreTest\obj\Debug\PreTest.Properties.Resources.resources
+F:\hieuvn1\DU\PreTest\obj\Debug\PreTest.csproj.GenerateResource.cache
+F:\hieuvn1\DU\PreTest\obj\Debug\PreTest.csproj.CoreCompileInputs.cache
+F:\hieuvn1\DU\PreTest\obj\Debug\PreTest.exe.manifest
+F:\hieuvn1\DU\PreTest\obj\Debug\PreTest.application
+F:\hieuvn1\DU\PreTest\obj\Debug\PreTest.exe
+F:\hieuvn1\DU\PreTest\obj\Debug\PreTest.pdb
+D:\0. Users\hieuvn\update\PreTest\obj\Debug\PreTest.csproj.AssemblyReference.cache
+D:\0. Users\hieuvn\update\PreTest\obj\Debug\PreTest.csproj.ResolveComReference.cache
+D:\0. Users\hieuvn\update\PreTest\obj\Debug\PreTest.Change_password.resources
+D:\0. Users\hieuvn\update\PreTest\obj\Debug\PreTest.Form1.resources
+D:\0. Users\hieuvn\update\PreTest\obj\Debug\PreTest.Properties.Resources.resources
+D:\0. Users\hieuvn\update\PreTest\obj\Debug\PreTest.csproj.GenerateResource.cache
+D:\0. Users\hieuvn\update\PreTest\obj\Debug\PreTest.csproj.CoreCompileInputs.cache
+D:\0. Users\hieuvn\update\PreTest\obj\Debug\PreTest.exe
+D:\0. Users\hieuvn\update\PreTest\obj\Debug\PreTest.pdb
+D:\0. Users\hieuvn\update\PreTest\bin\Debug\PreTest.exe.config
+D:\0. Users\hieuvn\update\PreTest\bin\Debug\PreTest.exe.manifest
+D:\0. Users\hieuvn\update\PreTest\bin\Debug\PreTest.application
+D:\0. Users\hieuvn\update\PreTest\bin\Debug\PreTest.exe
+D:\0. Users\hieuvn\update\PreTest\bin\Debug\PreTest.pdb
+D:\0. Users\hieuvn\update\PreTest\bin\Debug\Renci.SshNet.dll
+D:\0. Users\hieuvn\update\PreTest\bin\Debug\Renci.SshNet.xml
+D:\0. Users\hieuvn\update\PreTest\obj\Debug\PreTest.exe.manifest
+D:\0. Users\hieuvn\update\PreTest\obj\Debug\PreTest.application
+D:\0. Users\hieuvn\update\PreTest\obj\Debug\PreTest.csproj.CopyComplete
+F:\hieuvn1\PreTest\obj\Debug\PreTest.csproj.AssemblyReference.cache
+F:\hieuvn1\PreTest\obj\Debug\PreTest.csproj.ResolveComReference.cache
+F:\hieuvn1\PreTest\obj\Debug\PreTest.Change_password.resources
+F:\hieuvn1\PreTest\obj\Debug\PreTest.Form1.resources
+F:\hieuvn1\PreTest\obj\Debug\PreTest.Properties.Resources.resources
+F:\hieuvn1\PreTest\obj\Debug\PreTest.csproj.GenerateResource.cache
+F:\hieuvn1\PreTest\obj\Debug\PreTest.csproj.CoreCompileInputs.cache
+F:\hieuvn1\PreTest\obj\Debug\PreTest.exe
+F:\hieuvn1\PreTest\obj\Debug\PreTest.pdb
